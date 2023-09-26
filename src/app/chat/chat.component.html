@@ -1,0 +1,21 @@
+<!-- message-list.component.html -->
+<div class="container">
+  <div class="heading">
+<h1>Grout Chat App</h1>
+    <button (click)="logout()">LogOut</button>
+  </div>
+  <div class="message-list">
+  <div #messageItem *ngFor="let message of messages" class="message" [ngClass]="{'message': true, 'my-message': message.userId === userId, 'other-message': message.userId !== userId}">
+    <h5>{{message.userId}}</h5>
+    <p>{{ message.text }}</p>
+    <p class="timestamp">{{ message.timestamp | date: 'short' }}</p>
+  </div>
+  
+</div>
+<!-- message-input.component.html -->
+<div class="message-input">
+  <input [(ngModel)]="message" placeholder="Type your message" (keyup.enter)="sendMessage()" />
+  <button (click)="sendMessage()">Send</button>
+</div>
+
+</div>

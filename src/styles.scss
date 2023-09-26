@@ -1,0 +1,79 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat;
+}
+body{
+    max-width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right , rgb(255, 73, 73),#2c2c2c 50% ,rgb(40, 108, 255));
+background-image: url(https://thumbs.dreamstime.com/b/painted-old-concrete-wall-dark-blue-neon-paint-shabby-ink-texture-backgrounds-art-canvas-colored-pattern-painting-design-painted-215403977.jpg);
+background: url(https://cdn.pixabay.com/photo/2017/08/01/18/29/background-2567158_1280.jpg) no-repeat;
+background-size: cover;
+// background: #f1fbff;
+
+}
+.section-padding{
+    padding: 100px 0;
+}
+.carousel-item{
+height: 100vh;
+min-height: 300px;
+}
+
+.carousel-caption{
+    bottom: 13.25rem;
+    z-index: 2;
+    h5{
+        font-size: 45px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 25px;
+    }
+    p{
+        width: 60%;
+        margin: auto;
+        font-size: 18px;
+        line-height: 1.9;
+    }
+}
+.carousel-inner::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1;
+}
+.navbar-nav{
+
+    a{
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+}
+.navbar-light .navbar-brand {
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px; 
+}
+.navbar-light:focus ,.navbar-light :hover{
+    color: #000;
+}
+.navbar-light,.navbar-nav ,.navbar-link{
+    color: #000;
+}
+.w-100{
+    width: 100vw;
+}

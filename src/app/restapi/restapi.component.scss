@@ -1,0 +1,124 @@
+:host{
+    width: 100%;
+    // border: 1px solid red;
+}
+
+div[ngIf="isLoading"],
+div[ngIf="isError"] {
+   
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #f8d7da; /* Error message background color */
+}
+.loading{
+    font-size: 3vw;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    font-weight: 550;
+}
+.mainContainer{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 2%;
+  justify-content: center;
+  width: 100%;
+//   border: 1px solid red;
+}
+ul{
+    width: 90%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    background: #f0f0f0;
+    li{
+        list-style: none;
+    } 
+}
+/* Style for the product card */
+.product-card {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.337);
+  }
+  
+  /* Style for product image */
+  .product-image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.561);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+  }
+  
+  /* Style for product details */
+  .product-details {
+    text-align: left;
+  }
+  
+  .product-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .product-description {
+    font-size: 16px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+  }
+  
+  .product-discount {
+    font-size: 16px;
+  }
+  
+  .product-rating {
+    font-size: 16px;
+  }
+  
+  .product-stock {
+    font-size: 16px;
+  }
+  
+  .product-brand {
+    font-size: 16px;
+  }
+  
+  .product-category {
+    font-size: 16px;
+  }
+  
+  /* Style for product thumbnails */
+  .product-thumbnails {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .product-thumbnails img {
+    max-width: 30%;
+    height: auto;
+  }
+  

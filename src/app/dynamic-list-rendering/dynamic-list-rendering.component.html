@@ -1,0 +1,30 @@
+<div class="container">
+    <h1>Product List</h1>
+    <div class="sortData">
+ 
+    <div>
+      <label for="filter">Filter by Name:</label>
+      <input type="text" id="filter" [(ngModel)]="filterText">
+    </div>
+    <div>
+      <label for="sort">Sort by:</label>
+      <select id="sort" [(ngModel)]="sortOption">
+        <option value="title">Name</option>
+        <option value="price">Price</option>
+        <!-- Add more sorting options if needed -->
+      </select>
+    </div>
+           
+</div>
+    <ul>
+      <li *ngFor="let product of filteredProducts">
+        <div class="product-card">
+          <!-- Display product details here -->
+          <img class="product-image" [src]="product.thumbnail" alt="{{ product.title }}">
+          <p>{{ product.title }}</p>
+          <p>Price: {{ product.price }}</p>
+      </div>
+      </li>
+    </ul>
+  </div>
+  

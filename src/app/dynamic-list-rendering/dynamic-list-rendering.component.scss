@@ -1,0 +1,97 @@
+/* Basic styling for the container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Heading styling */
+  h1 {
+    font-size: 24px;
+    color: #ededed;
+    margin-bottom: 20px;
+    text-decoration-line: underline;
+  }
+  .sortData{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  /* Filter and sort controls container */
+  div {
+    margin-bottom: 10px;
+  }
+  
+  /* Label styling */
+  label {
+    font-weight: bold;
+  }
+  
+  /* Input and select styling */
+  input[type="text"],
+  select {
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+  
+  /* List styling */
+  ul {
+    list-style: none;
+    padding: 0;
+    // border: 1px solid red;
+  }
+  
+  /* List item styling */
+  li {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // border: 1px solid red;
+  }
+  
+  /* Hover effect on list items */
+  li:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  
+  /* Product title styling */
+  .product-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  /* Product price styling */
+  .product-price {
+    font-size: 16px;
+    color: #007bff;
+  }
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+.product-image {
+    max-width: 50%;
+    height: auto;
+}

@@ -1,0 +1,232 @@
+{
+  "messages": [
+    {
+      "text": "Hey bro",
+      "timestamp": "2023-09-22T15:20:18.061Z",
+      "userId": "Parag Unhale",
+      "id": 1
+    },
+    {
+      "text": "Hello",
+      "timestamp": "2023-09-22T15:22:11.033Z",
+      "userId": "Parag Unhale",
+      "id": 2
+    },
+    {
+      "text": "good bro",
+      "timestamp": "2023-09-22T15:22:49.744Z",
+      "userId": "Sanket Unhale",
+      "id": 3
+    },
+    {
+      "text": "how are you",
+      "timestamp": "2023-09-22T15:24:57.681Z",
+      "userId": "Parag Unhale",
+      "id": 4
+    },
+    {
+      "text": "good bro",
+      "timestamp": "2023-09-22T15:28:20.769Z",
+      "userId": "Anshul ",
+      "id": 5
+    },
+    {
+      "text": "thanks bro ",
+      "timestamp": "2023-09-22T15:28:39.104Z",
+      "userId": "Parag Unhale",
+      "id": 6
+    },
+    {
+      "text": "yes bro",
+      "timestamp": "2023-09-22T15:32:20.696Z",
+      "userId": "Anshul ",
+      "id": 7
+    },
+    {
+      "text": "where are you",
+      "timestamp": "2023-09-22T16:38:50.318Z",
+      "userId": "Parag Unhale",
+      "id": 8
+    },
+    {
+      "text": "hey",
+      "timestamp": "2023-09-23T06:16:54.527Z",
+      "userId": "Parag Unhale",
+      "id": 9
+    },
+    {
+      "text": "good",
+      "timestamp": "2023-09-23T06:17:16.493Z",
+      "userId": "Parag Unhale",
+      "id": 10
+    },
+    {
+      "text": "yes",
+      "timestamp": "2023-09-23T06:17:53.969Z",
+      "userId": "Parag Unhale",
+      "id": 11
+    },
+    {
+      "text": "where are you bro",
+      "timestamp": "2023-09-23T06:18:53.324Z",
+      "userId": "Anshul ",
+      "id": 12
+    },
+    {
+      "text": "home",
+      "timestamp": "2023-09-23T06:37:43.324Z",
+      "userId": "Parag Unhale",
+      "id": 13
+    },
+    {
+      "text": "ok bro",
+      "timestamp": "2023-09-23T06:47:00.525Z",
+      "userId": "Parag Unhale",
+      "id": 14
+    },
+    {
+      "text": "hello bro",
+      "timestamp": "2023-09-23T06:48:04.458Z",
+      "userId": "Parag Unhale",
+      "id": 15
+    },
+    {
+      "text": "hii",
+      "timestamp": "2023-09-23T06:48:09.573Z",
+      "userId": "Anshul ",
+      "id": 16
+    },
+    {
+      "text": "hii",
+      "timestamp": "2023-09-23T06:48:28.449Z",
+      "userId": "Parag Unhale",
+      "id": 17
+    },
+    {
+      "text": "hello bro where are you",
+      "timestamp": "2023-09-23T06:51:11.150Z",
+      "userId": "Anshul ",
+      "id": 18
+    },
+    {
+      "text": "home bro",
+      "timestamp": "2023-09-23T06:51:18.310Z",
+      "userId": "Parag Unhale",
+      "id": 19
+    },
+    {
+      "text": "hello everyone",
+      "timestamp": "2023-09-23T06:52:11.783Z",
+      "userId": "Anshul ",
+      "id": 20
+    },
+    {
+      "text": "hello",
+      "timestamp": "2023-09-23T06:55:25.046Z",
+      "userId": "Pratik ",
+      "id": 21
+    },
+    {
+      "text": "good",
+      "timestamp": "2023-09-23T06:55:33.833Z",
+      "userId": "Parag Unhale",
+      "id": 22
+    },
+    {
+      "text": "what are you doing bro",
+      "timestamp": "2023-09-23T06:58:02.603Z",
+      "userId": "Pratik ",
+      "id": 23
+    },
+    {
+      "text": "good",
+      "timestamp": "2023-09-23T06:58:08.353Z",
+      "userId": "Parag Unhale",
+      "id": 24
+    },
+    {
+      "text": "hello bro",
+      "timestamp": "2023-09-23T07:01:33.527Z",
+      "userId": "Pratik ",
+      "id": 25
+    },
+    {
+      "text": "where are you",
+      "timestamp": "2023-09-23T07:01:38.485Z",
+      "userId": "Parag Unhale",
+      "id": 26
+    },
+    {
+      "text": "hello bro",
+      "timestamp": "2023-09-23T07:07:20.711Z",
+      "userId": "Pratik ",
+      "id": 27
+    },
+    {
+      "text": "good bro",
+      "timestamp": "2023-09-23T07:07:50.440Z",
+      "userId": "Parag Unhale",
+      "id": 28
+    },
+    {
+      "text": "what are you doing bro",
+      "timestamp": "2023-09-23T07:13:17.976Z",
+      "userId": "Pratik ",
+      "id": 29
+    },
+    {
+      "text": "nothing bro",
+      "timestamp": "2023-09-23T07:13:55.876Z",
+      "userId": "Parag Unhale",
+      "id": 30
+    },
+    {
+      "text": "ok bro",
+      "timestamp": "2023-09-23T07:14:01.396Z",
+      "userId": "Pratik ",
+      "id": 31
+    },
+    {
+      "text": "where are you",
+      "timestamp": "2023-09-23T07:14:08.456Z",
+      "userId": "Parag Unhale",
+      "id": 32
+    },
+    {
+      "text": "home bro",
+      "timestamp": "2023-09-23T07:14:11.990Z",
+      "userId": "Pratik ",
+      "id": 33
+    }
+  ],
+  "users": [
+    {
+      "username": "Parag Unhale",
+      "email": "paragunhale1998@gmail.com",
+      "password": "pratik123",
+      "confirmPassword": "pratik123",
+      "id": "paragunhale1998@gmail.com"
+    },
+    {
+      "username": "Sanket Unhale",
+      "email": "sanket@gmail.com",
+      "password": "sanket123",
+      "confirmPassword": "sanket123",
+      "id": "sanket@gmail.com"
+    },
+    {
+      "username": "Anshul ",
+      "email": "unhaleparag@gmail.com",
+      "password": "anshul123",
+      "confirmPassword": "anshul123",
+      "id": "unhaleparag@gmail.com"
+    },
+    {
+      "username": "Pratik ",
+      "email": "paragunhale@gmail.com",
+      "password": "pratik123",
+      "confirmPassword": "pratik123",
+      "id": "paragunhale@gmail.com"
+    }
+  ]
+}
