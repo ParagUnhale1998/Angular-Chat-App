@@ -10,7 +10,16 @@ RESTful API Integration: Backend powered by a JSON server for seamless data hand
 
 Demo 📹 [Watch the Demo on LinkedIn](https://www.linkedin.com/posts/parag-unhale_angular-devloper-job-activity-7111949863570800640-Nw8H?utm_source=share&utm_medium=member_desktop)
 
+## How to Use
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/ParagUnhale1998/Angular-Chat-App.git
+
+cd angular-chat-app
+
+Install Dependencies
 How to Use
 Clone the Repository
 bash
