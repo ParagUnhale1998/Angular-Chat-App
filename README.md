@@ -1,27 +1,35 @@
-# AngularTasks
+Angular Chat App
+Angular Chat App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+A real-time chat application built with Angular and backed by a RESTful JSON server. This project showcases the power of Angular for creating interactive and dynamic user interfaces.
 
-## Development server
+Features
+Real-Time Communication: Instant messaging with real-time updates.
+User Authentication: Secure login system for personalized interactions.
+RESTful API Integration: Backend powered by a JSON server for seamless data handling.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Demo 📹 [Watch the Demo on LinkedIn](https://www.linkedin.com/posts/parag-unhale_angular-devloper-job-activity-7111949863570800640-Nw8H?utm_source=share&utm_medium=member_desktop)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+How to Use
+Clone the Repository
+bash
+Copy code
+git clone https://github.com/your-username/angular-chat-app.git
+cd angular-chat-app
+Install Dependencies
+bash
+Copy code
+npm install
+Start the JSON Server
+bash
+Copy code
+npm run server
+Start the Angular App
+bash
+Copy code
+ng serve
+Visit http://localhost:4200/ in your browser to view the app.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contributing
+Feel free to contribute by opening issues or pull requests. Your feedback is highly appreciated!
