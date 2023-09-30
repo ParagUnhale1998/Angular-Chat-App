@@ -20,8 +20,7 @@ A real-time chat application built with Angular and backed by a RESTful JSON ser
 # Clone the Repository
 
 ```git clone https://github.com/your-username/angular-chat-app.git```
-###cd angular-chat-app
-
+- **cd angular-chat-app
 ## Install Dependencies
 ```npm install```
 
