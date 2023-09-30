@@ -1,7 +1,7 @@
 # Angular Chat App
 
 <p align="center">
-  <img src="[path/to/your/Screenshot(549).png](https://github.com/ParagUnhale1998/Angular-Chat-App/blob/main/Screenshot%20(549).png)" alt="Angular Chat App" width="400" />
+    <img src="path/to/your/thumbnail.png" alt="Angular Chat App" width="400" />
 </p>
 
 A real-time chat application built with Angular and backed by a RESTful JSON server. This project showcases the power of Angular for creating interactive and dynamic user interfaces.
