@@ -14,7 +14,7 @@ A real-time chat application built with Angular and backed by a RESTful JSON ser
 
 ## Demo
 
-[![Watch the Demo](path/to/your/demo.png)](https://www.linkedin.com/posts/parag-unhale_angular-devloper-job-activity-7111949863570800640-Nw8H/?utm_source=share&utm_medium=member_desktop)
+📹 [Watch the Demo on LinkedIn](https://www.linkedin.com/posts/parag-unhale_angular-devloper-job-activity-7111949863570800640-Nw8H?utm_source=share&utm_medium=member_desktop)
 
 ## How to Use
 
